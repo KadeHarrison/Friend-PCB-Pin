@@ -14,6 +14,8 @@ I mainly foccussed on making a unique looking design rather than a unique mechan
 
 I also tried to work with putting all the circuits in a small assigned space to test my efficiency in making smaller sized circuits and put designs onto the bottom to further make it unique to me.
 
+The goal is to make it look like blinking red eyes cause ominous👍
+
 **PCB design**
 
 <img width="1470" height="956" alt="Screenshot 2026-07-02 at 8 15 37 pm" src="https://github.com/user-attachments/assets/2be660a8-c301-41b7-b3e8-5a7f24731b69" />
