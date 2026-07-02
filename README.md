@@ -10,7 +10,7 @@ I want to get as much merch as possible and be able to give something to the fri
 
 I was really tweaking out from lack of sleep so I made a really easy circuit that I've done before.
 
-I mainly foccussed on making a n=unique looking design rather than a unique mechanism to challenge my creativity in designing things which is why I chose the shape.
+I mainly foccussed on making a unique looking design rather than a unique mechanism to challenge my creativity in designing things which is why I chose the shape.
 
 **PCB design**
 
